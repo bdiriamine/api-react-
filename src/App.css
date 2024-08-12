@@ -1,0 +1,21 @@
+
+
+.user {
+  text-align: left;
+}
+
+.user h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+.user ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user li {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
